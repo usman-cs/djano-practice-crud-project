@@ -1,4 +1,4 @@
 # djano-practice-crud-project
 
-Admin Panel UserName : root <br>
-Admin Panel Password : root123
+<h2>Admin Panel UserName :<h2/> root <br>
+<h2>Admin Panel Password :<h2/> root123
